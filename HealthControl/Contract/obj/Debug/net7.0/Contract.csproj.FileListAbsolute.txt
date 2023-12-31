@@ -1,0 +1,17 @@
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Contract\bin\Debug\net7.0\Contract.deps.json
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Contract\bin\Debug\net7.0\Contract.dll
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Contract\bin\Debug\net7.0\Contract.pdb
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Contract\bin\Debug\net7.0\Domain.dll
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Contract\bin\Debug\net7.0\Utility.dll
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Contract\bin\Debug\net7.0\Domain.pdb
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Contract\bin\Debug\net7.0\Utility.pdb
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Contract\obj\Debug\net7.0\Contract.csproj.AssemblyReference.cache
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Contract\obj\Debug\net7.0\Contract.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Contract\obj\Debug\net7.0\Contract.AssemblyInfoInputs.cache
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Contract\obj\Debug\net7.0\Contract.AssemblyInfo.cs
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Contract\obj\Debug\net7.0\Contract.csproj.CoreCompileInputs.cache
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Contract\obj\Debug\net7.0\Contract.csproj.CopyComplete
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Contract\obj\Debug\net7.0\Contract.dll
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Contract\obj\Debug\net7.0\refint\Contract.dll
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Contract\obj\Debug\net7.0\Contract.pdb
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Contract\obj\Debug\net7.0\ref\Contract.dll

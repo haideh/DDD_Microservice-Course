@@ -1,0 +1,15 @@
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Domain\bin\Debug\net7.0\Domain.deps.json
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Domain\bin\Debug\net7.0\Domain.dll
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Domain\bin\Debug\net7.0\Domain.pdb
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Domain\bin\Debug\net7.0\Utility.dll
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Domain\bin\Debug\net7.0\Utility.pdb
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Domain\obj\Debug\net7.0\Domain.dll
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Domain\obj\Debug\net7.0\refint\Domain.dll
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Domain\obj\Debug\net7.0\Domain.pdb
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\Domain\obj\Debug\net7.0\ref\Domain.dll

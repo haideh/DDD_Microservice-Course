@@ -1,0 +1,598 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Presentation\\Presentation.csproj": {}
+  },
+  "projects": {
+    "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\h.arabzadeh.ADONIS\\.nuget\\packages\\",
+        "outputPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\h.arabzadeh.ADONIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "http://tfs-server/AdonisProjectCollection/_packaging/Adonis/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Contract\\Contract.csproj": {
+                "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Contract\\Contract.csproj"
+              },
+              "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Utility\\Utility.csproj": {
+                "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Utility\\Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Contract\\Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Contract\\Contract.csproj",
+        "projectName": "Contract",
+        "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Contract\\Contract.csproj",
+        "packagesPath": "C:\\Users\\h.arabzadeh.ADONIS\\.nuget\\packages\\",
+        "outputPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\h.arabzadeh.ADONIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "http://tfs-server/AdonisProjectCollection/_packaging/Adonis/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\DomainService\\DomainService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\DomainService\\DomainService.csproj",
+        "projectName": "DomainService",
+        "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\DomainService\\DomainService.csproj",
+        "packagesPath": "C:\\Users\\h.arabzadeh.ADONIS\\.nuget\\packages\\",
+        "outputPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\DomainService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\h.arabzadeh.ADONIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "http://tfs-server/AdonisProjectCollection/_packaging/Adonis/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\h.arabzadeh.ADONIS\\.nuget\\packages\\",
+        "outputPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\h.arabzadeh.ADONIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "http://tfs-server/AdonisProjectCollection/_packaging/Adonis/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Utility\\Utility.csproj": {
+                "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Utility\\Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Presentation\\Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Presentation\\Presentation.csproj",
+        "projectName": "Presentation",
+        "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Presentation\\Presentation.csproj",
+        "packagesPath": "C:\\Users\\h.arabzadeh.ADONIS\\.nuget\\packages\\",
+        "outputPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\h.arabzadeh.ADONIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "http://tfs-server/AdonisProjectCollection/_packaging/Adonis/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Application\\Application.csproj": {
+                "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Application\\Application.csproj"
+              },
+              "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Contract\\Contract.csproj": {
+                "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Contract\\Contract.csproj"
+              },
+              "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\DomainService\\DomainService.csproj": {
+                "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\DomainService\\DomainService.csproj"
+              },
+              "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\QueryRepository\\QueryRepository.csproj": {
+                "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\QueryRepository\\QueryRepository.csproj"
+              },
+              "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Repository\\Repository.csproj": {
+                "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\QueryRepository\\QueryRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\QueryRepository\\QueryRepository.csproj",
+        "projectName": "QueryRepository",
+        "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\QueryRepository\\QueryRepository.csproj",
+        "packagesPath": "C:\\Users\\h.arabzadeh.ADONIS\\.nuget\\packages\\",
+        "outputPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\QueryRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\h.arabzadeh.ADONIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "http://tfs-server/AdonisProjectCollection/_packaging/Adonis/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Contract\\Contract.csproj": {
+                "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Contract\\Contract.csproj"
+              },
+              "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\h.arabzadeh.ADONIS\\.nuget\\packages\\",
+        "outputPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\h.arabzadeh.ADONIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "http://tfs-server/AdonisProjectCollection/_packaging/Adonis/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Contract\\Contract.csproj": {
+                "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Contract\\Contract.csproj"
+              },
+              "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Utility\\Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Utility\\Utility.csproj",
+        "projectName": "Utility",
+        "projectPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Utility\\Utility.csproj",
+        "packagesPath": "C:\\Users\\h.arabzadeh.ADONIS\\.nuget\\packages\\",
+        "outputPath": "E:\\Arabzadeh\\Learn\\Shahbazian_Course\\DDD_MICRO\\Exersice\\HeathControl\\HealthControl\\Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\h.arabzadeh.ADONIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "http://tfs-server/AdonisProjectCollection/_packaging/Adonis/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

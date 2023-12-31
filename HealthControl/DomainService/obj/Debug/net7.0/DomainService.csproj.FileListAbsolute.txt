@@ -1,0 +1,17 @@
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\DomainService\bin\Debug\net7.0\DomainService.deps.json
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\DomainService\bin\Debug\net7.0\DomainService.dll
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\DomainService\bin\Debug\net7.0\DomainService.pdb
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\DomainService\bin\Debug\net7.0\Domain.dll
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\DomainService\bin\Debug\net7.0\Utility.dll
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\DomainService\bin\Debug\net7.0\Domain.pdb
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\DomainService\bin\Debug\net7.0\Utility.pdb
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\DomainService\obj\Debug\net7.0\DomainService.csproj.AssemblyReference.cache
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\DomainService\obj\Debug\net7.0\DomainService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\DomainService\obj\Debug\net7.0\DomainService.AssemblyInfoInputs.cache
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\DomainService\obj\Debug\net7.0\DomainService.AssemblyInfo.cs
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\DomainService\obj\Debug\net7.0\DomainService.csproj.CoreCompileInputs.cache
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\DomainService\obj\Debug\net7.0\DomainService.csproj.CopyComplete
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\DomainService\obj\Debug\net7.0\DomainService.dll
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\DomainService\obj\Debug\net7.0\refint\DomainService.dll
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\DomainService\obj\Debug\net7.0\DomainService.pdb
+E:\Arabzadeh\Learn\Shahbazian_Course\DDD_MICRO\Exersice\HeathControl\HealthControl\DomainService\obj\Debug\net7.0\ref\DomainService.dll
